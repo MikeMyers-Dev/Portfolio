@@ -1,3 +1,3 @@
 # Portfolio
 ## This is the start of my portfolio
-<img src= "Profile Pic 2" width='300'/>
+<img src= "Profile Pic 2.jpg" width='300'/>
